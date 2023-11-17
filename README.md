@@ -7,4 +7,4 @@ A challenger of Frontend Mentor to make a simple design of a 'sign-up form' with
 ![desktop-preview](https://github.com/diogo-s4ntos/Sign-up-form/assets/117995697/f70c0dbf-4195-43d7-8d1f-d4a446998efe)
 
 <h1>Link</h1>
-<li>Live site URL: <a href="">Click Here</a></li>
+<li>Live site URL: <a href="https://diogo-s4ntos.github.io/Sign-up-form/">Click Here</a></li>
